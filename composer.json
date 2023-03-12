@@ -1,0 +1,11 @@
+{
+    "require": {
+        "htmlburger/carbon-fields-plugin": "^3.3",
+        "adoy/oauth2": "*"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": false
+        }
+    }
+}
